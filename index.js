@@ -4,6 +4,7 @@ import styles  from './styles/styles.scss'
 class HelloWorld extends Component{
 
 
+
   render(){
     const {fullname,birthday} = this.props
     return(
